@@ -1,4 +1,4 @@
-# exampletemplate
+# Vue Template with JWT Auth
 
 ## Project setup
 ```
